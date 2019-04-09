@@ -1,0 +1,16 @@
+{
+  "name": "bastis-camp",
+  "version": "1.0.0",
+  "description": "A site for finding private land and unique camping experiences",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "keywords": [],
+  "author": "Megan Keesee, Alejandra Franco, Basti Pacudan, Nicole Harrison",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
