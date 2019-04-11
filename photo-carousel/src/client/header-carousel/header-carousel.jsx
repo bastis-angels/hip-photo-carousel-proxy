@@ -2,7 +2,6 @@ import React from 'react';
 import HeaderImage from './header-image.jsx';
 import RightArrowHeader from './rightArrow-header.jsx';
 import LeftArrowHeader from './leftArrow-header.jsx';
-import styled from 'styled-components';
 
 const  Carousel = styled.div `
   display: flex;

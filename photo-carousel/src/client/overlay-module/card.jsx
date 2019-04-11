@@ -1,6 +1,5 @@
 import React from 'react';
 import HelpfulBtn from './helpfulBtn.jsx';
-import styled from 'styled-components';
 
 const OuterCard = styled.div `
   box-sizing: border-box;

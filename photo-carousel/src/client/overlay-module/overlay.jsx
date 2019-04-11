@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import Card from './card.jsx';
 import LeftArrow from './leftArrow.jsx';
 import RightArrow from './rightArrow.jsx';
-import styled from 'styled-components';
 
 // Styles //
 

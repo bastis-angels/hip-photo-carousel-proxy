@@ -1,5 +1,4 @@
 import React from "react";
-import styled from 'styled-components';
 
 const Helpful = styled.button `
   display: inline-block;
